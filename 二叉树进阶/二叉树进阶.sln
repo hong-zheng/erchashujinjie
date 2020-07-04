@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树进阶", "二叉树进阶\二叉树进阶.vcxproj", "{AE8CF92B-477F-4014-A4E3-C3FCF8FBDB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8CF92B-477F-4014-A4E3-C3FCF8FBDB07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE8CF92B-477F-4014-A4E3-C3FCF8FBDB07}.Debug|Win32.Build.0 = Debug|Win32
+		{AE8CF92B-477F-4014-A4E3-C3FCF8FBDB07}.Release|Win32.ActiveCfg = Release|Win32
+		{AE8CF92B-477F-4014-A4E3-C3FCF8FBDB07}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
